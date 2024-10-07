@@ -1,6 +1,9 @@
-## Hi there 👋
+## Olá! Bem vindo  👋
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Carol-Robot" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
+  <img align="center" alt="Carol-Play" height="40" width="40" src="https://playwright.dev/img/playwright-logo.svg">
+  <img align="center" alt="Carol-Selenium" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
