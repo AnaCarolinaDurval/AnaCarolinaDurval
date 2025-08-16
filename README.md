@@ -15,6 +15,7 @@ Já atuei com automação de testes utilizando ferramentas como Robot Framework 
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carol-Appium" height="30" width="40" src="https://raw.githubusercontent.com/appium/appium-desktop/refs/heads/master/build/icon.ico">
 </div>
   
   ##
